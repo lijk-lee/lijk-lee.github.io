@@ -27,7 +27,7 @@ footer:
 # Author 配置博主信息
 author: 'lee'
 nickname: 'lee'
-bio: ''
+bio: 'lijk_lee@163.com'
 avatar: '/assets/img/profile.jpg'
 
 # Search
@@ -60,11 +60,11 @@ sns:
   #weibo: '//weibo.com/lovecolcol'
   #juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
   #instagram: '//www.instagram.com/steveliaocn'
-  email : '//lijk_lee@163.com'
+  #email : '//lijk_lee@163.com'
   github: '//github.com/lijk-lee'
 
 # Tags 设置标签
-recommend-tags: false # whether or not display recommend-tags on the sidebar
+recommend-tags: true # whether or not display recommend-tags on the sidebar
 recommend-condition-size: 12 # a tag will be recommended if the size of it is more than this value
 
 # Build settings
