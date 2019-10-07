@@ -17,7 +17,7 @@ baseurl: ''
 # Navigation links
 nav:
   home: '/'
-  tags: '/tags.html'
+  #tags: '/tags.html'
 
 # Footer
 footer:
@@ -27,7 +27,7 @@ footer:
 author: 'lee'
 nickname: 'lee'
 bio: ''
-avatar: '/assets/img/profile.png'
+avatar: '/assets/img/profile.jpg'
 
 # Search
 search: true
