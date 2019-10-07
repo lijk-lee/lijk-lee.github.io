@@ -18,7 +18,7 @@ baseurl: ''
 nav:
   home: '/'
   #tags: '/tags.html'
-  resume: '/resume/resume.html'
+  resume: '/resume.html'
 
 # Footer
 footer:
@@ -60,6 +60,7 @@ sns:
   #weibo: '//weibo.com/lovecolcol'
   #juejin: '//juejin.im/user/57a6f434165abd006159b4cc'
   #instagram: '//www.instagram.com/steveliaocn'
+  email : 'lijk_lee@163.com'
   github: '//github.com/lijk-lee'
 
 # Tags 设置标签
@@ -67,9 +68,9 @@ recommend-tags: false # whether or not display recommend-tags on the sidebar
 recommend-condition-size: 12 # a tag will be recommended if the size of it is more than this value
 
 # Build settings
-paginate: 7
+paginate: 6
 paginate_path: 'page:num'
-exclude: ['node_modules', 'dev', 'package.json', 'gulpfile.js', '.gitignore', 'README.md','resume']
+exclude: [node_modules', 'dev', 'package.json', 'gulpfile.js', '.gitignore', 'README.md']
 
 # Markdown
 markdown: kramdown
