@@ -2,7 +2,7 @@
 
 [中文](./resume.html)
 
-A senior student in network engineering at Shandong Jianzhu University
+A senior student in Network Engineering at Shandong Jianzhu University
 
 Connect：lijk_lee (at) 163.com
 
