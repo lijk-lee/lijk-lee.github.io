@@ -44,7 +44,7 @@ comments:
 mathjax: true
 
 # Share
-social-share: true
+social-share: false
 social-share-items: ['wechat']
 
 # theme color 主题皮肤
@@ -62,7 +62,7 @@ sns:
   github: '//github.com/lijk-lee'
 
 # Tags 设置标签
-recommend-tags: true # whether or not display recommend-tags on the sidebar
+recommend-tags: false # whether or not display recommend-tags on the sidebar
 recommend-condition-size: 12 # a tag will be recommended if the size of it is more than this value
 
 # Build settings
