@@ -18,7 +18,7 @@ baseurl: ''
 nav:
   home: '/'
   #tags: '/tags.html'
-  resume: '/resume.html'
+  resume: '/resume.md'
 
 # Footer
 footer:
