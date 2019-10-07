@@ -1,10 +1,10 @@
 ## Jiangkun Lee（李江坤）
 
-[中文主页](/resume.md)
+[中文主页](./resume.html)
 
 A senior student in network engineering at Shandong Jianzhu University
 
-Connect：lijk_lee@163.com
+Connect：lijk_lee (at) 163.com
 
 ### Education
 

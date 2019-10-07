@@ -1,10 +1,10 @@
 ## 李江坤（Jiangkun Lee）
 
-[English](/resume_us.md)
+[English](./resume_us.html)
 
 山东建筑大学，网络工程专业，大四学生
 
-email：lijk_lee@163.com
+email：lijk_lee (at) 163.com
 
 ### 教育经历
 
