@@ -17,7 +17,7 @@ Connect：lijk_lee (at) 163.com
 ### Research Interests
 
 - Data Analysis and Machine Learning 
-- Algorithms analysis and design
+- Algorithms Analysis and Design
 
 ### Publications
 
